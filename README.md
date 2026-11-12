@@ -79,8 +79,4 @@ Based on our dataset:
 
 These results reflect the downloaded dataset and may change as the NBA season progresses.
 
-## Credits
 
-Created by Ansh Talwar and Jai Singh for the AP Computer Science A Data for Social Good Project.
-
-NBA statistics sourced from BoxScore Lab.
